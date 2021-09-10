@@ -1,0 +1,5 @@
+1,deluxe,1250
+2,standard,2500
+3,suite,3000
+4,superior,3500
+5,suite,4500
